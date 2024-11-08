@@ -23,6 +23,21 @@
             <h2>Tentang Saya</h2>
             <p>Saya adalah Rayhan Braja Masti, seorang mahasiswa di UPERTIS. Saya memiliki minat dalam sepakbola, futsal, bermain alat musik perkusi dan menggambar.</p>
         </section>
+       <html>
+       <body>
+       <form>
+      nama : <br>
+      <input type= "text" name="name" ><br>
+       Aalamat: <br>
+       <input type="text" name="address">
+       </form>
+       </body>
+     jenis kelamin: <br>
+     <input type = "radio" name="gender" value= "male" checked> laki <br>
+     <input type = "radio" name="gender" value= "farmale" checked> laki <br>
+     <input type = "radio" name="gender" value= "other">entahlah 
+     password:<br>
+    <input type="password" name"password">
     </main>
 
     <footer>
